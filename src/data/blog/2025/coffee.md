@@ -62,3 +62,17 @@ Wardrobe? He's in at least a couple of those books and I think about him more
 often than is normal. I think his name is Reepacheep. He had a little sword.
 
 I just added that little motherfuckers name to my personal dictionary.
+
+## Therapy
+
+We just had couples counseling for the first time with our new therapist. She
+seems promising.
+
+I think the conclusion was, "We want to learn a new way of relating to one
+another that's healthy".
+
+She's learning how to set loving boundaries.
+
+I'm learning how to be vulnerable in small ways to meet her where she's at.
+
+Terminal emacs crashed, but I'm back baby.
