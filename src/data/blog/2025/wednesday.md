@@ -32,3 +32,6 @@ Billy is taking Persephone on a walk today. That's nice.
 
 This is going on the internet. I've already put some rather private information
 up, but it's going to get crazier. Why? I want to.
+
+Everyone seemed to be okay when I got home. I'm all set up and waiting for my
+next couple of meetings.
