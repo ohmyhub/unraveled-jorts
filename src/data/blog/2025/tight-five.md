@@ -11,7 +11,7 @@ tags:
 - writing
 - AI
 description:
-A little story for open mic.
+  A little story for open mic.
 ---
 
 ## AI made me do it
