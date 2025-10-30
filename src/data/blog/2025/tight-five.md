@@ -5,7 +5,7 @@ modDatetime:
 title: Tight Five
 slug: tight-five
 featured: true
-draft: true
+draft: false
 tags:
 - open-mic
 - writing
