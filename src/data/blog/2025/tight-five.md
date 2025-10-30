@@ -1,6 +1,6 @@
 ---
 author: Kevin Ward
-pubDatetime:
+pubDatetime: 2025-10-30T11:09:41
 modDatetime:
 title: Tight Five
 slug: tight-five
