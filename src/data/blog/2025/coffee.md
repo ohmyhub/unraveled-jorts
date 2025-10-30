@@ -11,12 +11,13 @@ tags:
 - journal
 - AI
 description:
-I've been drinking a lot of coffee lately. It keeps me ambulatory.
+  I've been drinking a lot of coffee lately.
 ---
 
 ## Table of Contents
 
 ## What's New
+
 Last week and the week before I was drinking about 10 shots of espresso a day.
 
 Side thought: is jungo a word? I'll ask the robot.
